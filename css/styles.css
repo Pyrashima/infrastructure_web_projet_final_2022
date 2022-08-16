@@ -1,0 +1,14 @@
+.my-5,
+.titrePage {
+  border-bottom: 3px solid black;
+}
+
+.bgColor {
+  background-color: lightpink;
+  padding: 1rem;
+}
+
+.card-headerTitle {
+  text-align: center;
+  padding-top: 1rem;
+}
